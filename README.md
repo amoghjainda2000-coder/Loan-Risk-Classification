@@ -91,7 +91,7 @@ jupyter
 ## 👨‍💻 Author
 
 **Amogh Jain**  
-📍 Aspiring Business Analyst  
+📍 Business Analyst  
 📧 amoghjainda2000@gmail.com 
  
 
